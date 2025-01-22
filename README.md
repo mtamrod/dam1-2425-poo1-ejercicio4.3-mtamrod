@@ -1,6 +1,6 @@
 ### **Ejercicio 4.3**
 
-   1. Actualizar el ejercicio 4.2 para añadir a la clase `Persona` el siguiente comportamiento:
+   1. Actualizar el [ejercicio 4.2](https://github.com/mtamrod/dam1-2425-poo1-ejercicio4.2-mtamrod) para añadir a la clase `Persona` el siguiente comportamiento:
 
       * Debe retornar un saludo con su nombre... `saludar():String`
       * Debe retornar si altura por encima de la media (solo si altura >= 1.75)... `alturaEncimaMedia():Boolean`
